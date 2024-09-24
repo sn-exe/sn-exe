@@ -1,7 +1,5 @@
 # 👋 Hi, I'm @sn-exe
 
-![Cybersec Banner](https://giphy.com/gifs/october-trickytricks-oVvhEYvWDvE1G)
-
 ```
 $ whoami
 {
