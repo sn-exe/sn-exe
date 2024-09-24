@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @sn-exe
 
-![Cybersec Banner](https://i.imgur.com/oX5RP9b.gif)
+![Cybersec Banner](https://giphy.com/gifs/october-trickytricks-oVvhEYvWDvE1G)
 
 ```
 $ whoami
